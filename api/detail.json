@@ -1,0 +1,5 @@
+{
+  "title": "React",
+  "content": "If you don initialize state and you don’t bind methods, you dontneed to implement a constructor for your React component. Theconstructor for a React component is called before it is mounted.When implementing the constructor for a React.Component subclass,you should call super(props) before any other statement. Otherwise,this.props will be undefined in the constructor, which can lead tobugs. Typically, in React constructors are only used for twopurposes: Initializing local state by assigning an object tothis.state. Binding event handler methods to an instance",
+  "imgUrl": "https://s3.ap-south-1.amazonaws.com/clecotech/static_images/react-one.jpg"
+}
