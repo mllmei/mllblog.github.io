@@ -2,7 +2,9 @@ import axios from "axios";
 export const login = (username, password) => {
   return (dispatch) => {
     axios
-      .get("/api/login.json?username=" + username + "&password=" + password)
+      .get(
+        "/mllblog/api/login.json?username=" + username + "&password=" + password
+      )
       .then((res, rej) => {
         let result = res.data.status;
         if (result) {

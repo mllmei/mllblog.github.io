@@ -4,7 +4,7 @@ export const getHomeData = (res) => {
 };
 export const loadmore = (page) => {
   return (dispatch) => {
-    axios.get(`/api/homeList.json?page=${page}`).then((res, rej) => {
+    axios.get(`/mllblog/api/homeList.json?page=${page}`).then((res, rej) => {
       dispatch({ type: "LOAD_MORE", data: res.data.data, nextPage: page + 1 });
     });
   };

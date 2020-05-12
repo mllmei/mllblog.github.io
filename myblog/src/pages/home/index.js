@@ -11,7 +11,7 @@ import { Redirect } from "react-router-dom";
 class Home extends Component {
   componentDidMount() {
     window.addEventListener("scroll", this.props.changeScrollTopShow);
-    axios.get("/api/home.json").then((res) => {
+    axios.get("/mllblog/api/home.json").then((res) => {
       this.props.getHomeData(res.data);
     });
   }
