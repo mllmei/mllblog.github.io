@@ -1,0 +1,68 @@
+{
+  "topicList": [
+    {
+      "id": 1,
+      "title": "react",
+      "imgUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png"
+    },
+    {
+      "id": 2,
+      "title": "react",
+      "imgUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png"
+    },
+    {
+      "id": 3,
+      "title": "react",
+      "imgUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png"
+    },
+    {
+      "id": 4,
+      "title": "react",
+      "imgUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png"
+    }
+  ],
+  "recommendList": [
+    {
+      "id": 1,
+      "imgUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/html-1024x341.png"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://www.tutorialrepublic.com/lib/images/css-illustration.png"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://miro.medium.com/max/4000/1*xdLGf4KfPHk0NBPuEdJJvQ.png"
+    }
+  ],
+  "articleList": [
+    {
+      "id": 1,
+      "title": "React",
+      "desc": "Something you should know about React",
+      "imgUrl": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "desc": "Something you should know about React",
+      "imgUrl": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
+    },
+    {
+      "id": 3,
+      "title": "React",
+      "desc": "Something you should know about React",
+      "imgUrl": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
+    },
+    {
+      "id": 4,
+      "title": "React",
+      "desc": "Something you should know about React",
+      "imgUrl": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
+    }
+  ]
+}
