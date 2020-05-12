@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bee3efcfa77e8ce7fefc996c7c0cff01",
+    "revision": "cecf37023567f67b091b064de4e71f15",
     "url": "/mllblog/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mllblog/static/js/2.28e5cb51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90d0848efd1c6e41d39f",
-    "url": "/mllblog/static/js/main.2be2107b.chunk.js"
+    "revision": "74c4e6a8e46e8525c68a",
+    "url": "/mllblog/static/js/main.2c1641cf.chunk.js"
   },
   {
     "revision": "4d52007f152ac168d5b2",
